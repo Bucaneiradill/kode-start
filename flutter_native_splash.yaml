@@ -1,0 +1,16 @@
+# flutter_native_splash-development.yaml
+flutter_native_splash:
+  color: "#121212"
+  image: assets/kobe.jpg
+  branding: assets/logo.png
+  color_dark: "#121212"
+  image_dark: assets/kobe.jpg
+  branding_dark: assets/logo.png
+
+  android_12:
+    image: assets/kobe.png
+    icon_background_color: "#121212"
+    image_dark: assets/kobe.png
+    icon_background_color_dark: "#121212"
+
+  web: false
